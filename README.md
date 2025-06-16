@@ -19,21 +19,6 @@ Interactive Program Input: Users can input instructions manually through the ter
 👩‍💻 My Role
 I designed and built the entire emulator, including the instruction parser, execution loop, memory/register management, and user interface. This project was a hands-on way to apply my understanding of computer architecture and Python programming.
 
-⚙️ How to Run
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/SimpleRISC.git
-cd SimpleRISC
-Run the emulator:
-
-bash
-Copy
-Edit
-python3 simple_risc.py
-
 📘 Lessons Learned
 Gained a deeper understanding of how CPU instructions are processed
 
