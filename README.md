@@ -7,7 +7,7 @@ Language: Python 3
 
 Tools: Command-line interface (CLI)
 
-🚀 Features
+🚀 Features:
 Register Simulation: Simulates four general-purpose registers (R1–R4)
 
 Instruction Support: Supports instructions like LOAD, STORE, ADD, SUB, MUL, JUMP, conditional branching, and HALT
@@ -16,10 +16,10 @@ Memory Management: Emulates memory storage via dictionary
 
 Interactive Program Input: Users can input instructions manually through the terminal
 
-👩‍💻 My Role
+👩‍💻 My Role:
 I designed and built the entire emulator, including the instruction parser, execution loop, memory/register management, and user interface. This project was a hands-on way to apply my understanding of computer architecture and Python programming.
 
-📘 Lessons Learned
+📘 Lessons Learned:
 Gained a deeper understanding of how CPU instructions are processed
 
 Improved Python structuring and control flow logic
